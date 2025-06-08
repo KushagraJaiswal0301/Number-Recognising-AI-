@@ -1,2 +1,2 @@
 # Number-Recognising-AI-
-For making an AI that is able to recognise numbers (-∞ to ∞)
+For making an AI that is able to recognise numbers (-∞ to ∞) in human handwriting
